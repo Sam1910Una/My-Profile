@@ -15,3 +15,6 @@
 🌱 I’m currently working  **Power Bi,T-SQL,SSAS,Tableau,Azure Devops,MYSQL,Excel,ETL**
 
 👯 I’m looking to collaborate on **Data Analytics**
+ 
+👯 Certifiaction **Prefessional Certificate Program In Data Aalytics and Generative Ai**
+  
